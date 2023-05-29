@@ -1,4 +1,4 @@
-![MasterHead]([https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/souradeep-mukherjee/souradeep-mukherjee/blob/main/readme_gif.gif))
+![MasterHead](https://github.com/souradeep-mukherjee/souradeep-mukherjee/blob/main/readme_gif.gif)
 <h1 align="center">Hi 👋, I'm Souradeep Mukherjee</h1>
 <h3 align="center">A passionate full-stack developer highly interested in blockchain development</h3>
 
