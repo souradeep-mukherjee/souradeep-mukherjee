@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **souradeep.pingu@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/souradeep-mukherjee-resume](bit.ly/souradeep-mukherjee-resume)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
