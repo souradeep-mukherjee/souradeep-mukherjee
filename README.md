@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **react, flutter, MERN**
+- 💬 Ask me about **MERN, Next.js, Web3**
 
-- 📫 How to reach me **souradeep.pingu@gmail.com**
+- 📫 How to reach me **souradeepm.11@gmail.com**
 
 - 📄 Know about my experiences []()
 
