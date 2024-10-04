@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://twitter.com/souradeep_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="souradeep_03" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/souradeep-mukherjee-a07379224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/souradeep-mukherjee-a07379224/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/souradeep_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="souradeep_03" height="30" width="40" /></a>
 <a href="https://instagram.com/_souradeep_mukherjee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_souradeep_mukherjee_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/souradeep_03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="souradeep_03" height="30" width="40" /></a>
 </p>
