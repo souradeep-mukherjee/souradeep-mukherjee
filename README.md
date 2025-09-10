@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Souradeep Mukherjee</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souradeep-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="souradeep-mukherjee" /> </p>
 
