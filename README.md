@@ -1,80 +1,83 @@
-<h1 align="center">Hey there 👋 I'm Souradeep Mukherjee</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN | Open Source | Web3 Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souradeep-mukherjee&label=Visitors&color=blueviolet&style=flat" />
+# 👋 Hi, I’m Souradeep Mukherjee  
+### 🚀 Full Stack Developer | MERN | Open Source | Web3 Explorer  
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=souradeep-mukherjee&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Web3+Learner;Always+Learning+New+Things" />
-</p>
+</div>
 
 ---
 
-## 🧑‍💻 Who Am I?
-```txt
-A passionate Full Stack Developer who loves building real-world products,
-exploring Web3, contributing to Open Source, and continuously leveling up.
-I enjoy solving problems, breaking things, and fixing them back better 😄
-```
+## 🧠 About Me
 
----
+I’m a passionate **Full Stack Developer** who loves building scalable web applications, contributing to open source, and exploring cutting-edge technologies like **Web3 and Cloud**.  
+I enjoy solving real-world problems with clean code and practical design.
 
-### 🚀 About Me  
 - 🔭 Currently building: **[Boxed Love](https://boxed.love/)**
-- 👯 Open to collaborate on **Open Source Projects**  
-- 🤝 Looking for guidance & collaboration on **Web3 Projects**  
-- 📝 I regularly write articles on **[Medium](https://medium.com/@souradeep-mukherjee)**  
-- 💬 Ask me about **MERN Stack, APIs, Databases, System Design (Beginner)**  
-- 📫 Reach me at: **souradeep-mukherjee**  
-- 📄 Resume: **[View Here](https://drive.google.com/file/d/1eend2Ei7bPTmbI-7a6Ei6_5coYYVTH64/view?usp=sharing)**  
-- ⚡ Fun fact: **I use sarcasm as a defensive mechanism 😄**
+- 🌱 Currently learning: **Web3, Cloud & System Design**
+- 👯 Open to collaborating on: **Open Source Projects**
+- 🤝 Looking for mentorship in: **Web3 & Distributed Systems**
+- ✍️ Writing at: **[Medium](https://medium.com/@souradeep-mukherjee)**
+- 💬 Ask me about: **MERN, REST APIs, Databases**
+- 📫 Reach me at: **souradeep-mukherjee**
+- 📄 Resume: **[View Here](https://drive.google.com/file/d/1eend2Ei7bPTmbI-7a6Ei6_5coYYVTH64/view?usp=sharing)**
+- ⚡ Fun fact: *Sarcasm is my second programming language.*
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
+
 <p align="left">
-  <a href="https://twitter.com/souradeep_03" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
+  <a href="https://linkedin.com/in/souradeep-mukherjee-a07379224">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/souradeep-mukherjee-a07379224" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <a href="https://x.com/souradeep_03">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/_souradeep_mukherjee_" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+  <a href="https://instagram.com/_souradeep_mukherjee_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.leetcode.com/jhj99z0h4q" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+  <a href="https://www.leetcode.com/jhj99z0h4q">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-### 🧠 Languages & Tools
-<p align="left"> 
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a href="#"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
-</p>
+## 🛠 Tech Stack
+
+### 💻 Languages
+`C` • `C++` • `Java` • `Python` • `JavaScript`
+
+### 🌐 Frontend
+`HTML5` • `CSS3` • `React` • `Tailwind CSS`
+
+### 🧩 Backend
+`Node.js` • `Express` • `REST APIs`
+
+### 🗄 Databases
+`MongoDB` • `MySQL`
+
+### ⚙️ Tools & Platforms
+`Git` • `Linux` • `Postman` • `Figma` • `Google Cloud`
 
 ---
 
-### 📊 GitHub Stats & Contributions
+## 🚀 Featured Project
+
+### 🔹 Job Portal – MERN Stack
+A full-stack job portal with authentication, role-based dashboards, job listings, and application tracking.
+
+- Tech: **MongoDB, Express, React, Node.js**
+- Features: Auth, Job Posting, Applications, Admin Panel  
+🔗 **Repo:** https://github.com/souradeep-mukherjee/job-portal
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep-mukherjee&theme=tokyonight&hide_border=true" />
@@ -82,14 +85,32 @@ I enjoy solving problems, breaking things, and fixing them back better 😄
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=souradeep-mukherjee&theme=radical&no-frame=true&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=souradeep-mukherjee&theme=onestar&no-frame=true&column=6" />
 </p>
 
 ---
 
-### ✨ Quote I Live By
-> *"Consistency beats talent when talent doesn’t work consistently."*
+## 📌 What I Bring to a Team
+
+- ✅ Clean, maintainable code  
+- ✅ Strong debugging skills  
+- ✅ Ownership & accountability  
+- ✅ Fast learner with growth mindset  
+- ✅ Good communication & documentation  
 
 ---
+
+## 💡 Personal Motto
+
+> *“Build consistently. Learn relentlessly. Stay humble.”*
+
+---
+
+<div align="center">
+
+⭐ *If you like my work, consider starring my repositories — it really helps!*  
+
+</div>
