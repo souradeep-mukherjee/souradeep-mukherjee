@@ -62,16 +62,9 @@
 ---
 
 ### 📊 GitHub Stats & Contributions
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souradeep-mukherjee&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep-mukherjee&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=souradeep-mukherjee&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
