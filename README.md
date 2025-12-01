@@ -1,20 +1,33 @@
-<h1 align="center">Hi 👋, I'm Souradeep Mukherjee</h1>
-<h3 align="center">Full Stack Developer | MERN | Open Source | Web3 Enthusiast</h3>
+<h1 align="center">Hey there 👋 I'm Souradeep Mukherjee</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | Open Source | Web3 Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=souradeep-mukherjee&label=Profile%20views&color=0e75b6&style=flat" alt="souradeep-mukherjee" />
+  <img src="https://komarev.com/ghpvc/?username=souradeep-mukherjee&label=Visitors&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Open+Source+Contributor;Web3+Learner;Always+Learning+New+Things" />
 </p>
 
 ---
 
+## 🧑‍💻 Who Am I?
+```txt
+A passionate Full Stack Developer who loves building real-world products,
+exploring Web3, contributing to Open Source, and continuously leveling up.
+I enjoy solving problems, breaking things, and fixing them back better 😄
+```
+
+---
+
 ### 🚀 About Me  
-- 🔭 Currently building: **[Job Portal](https://github.com/souradeep-mukherjee/job-portal)**  
+- 🔭 Currently building: **[Boxed Love](https://boxed.love/)**
 - 👯 Open to collaborate on **Open Source Projects**  
 - 🤝 Looking for guidance & collaboration on **Web3 Projects**  
 - 📝 I regularly write articles on **[Medium](https://medium.com/@souradeep-mukherjee)**  
 - 💬 Ask me about **MERN Stack, APIs, Databases, System Design (Beginner)**  
 - 📫 Reach me at: **souradeep-mukherjee**  
-- 📄 Resume: **[View Here](https://drive.google.com/file/d/16J8p3k8K64Gtrt0flEWev4pKpCLqDvFo/view?usp=sharing)**  
+- 📄 Resume: **[View Here](https://drive.google.com/file/d/1eend2Ei7bPTmbI-7a6Ei6_5coYYVTH64/view?usp=sharing)**  
 - ⚡ Fun fact: **I use sarcasm as a defensive mechanism 😄**
 
 ---
@@ -39,7 +52,7 @@
 
 ### 🧠 Languages & Tools
 <p align="left"> 
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
