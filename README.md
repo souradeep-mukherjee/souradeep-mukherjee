@@ -24,8 +24,8 @@ I specialize in **full-stack development**, **distributed systems**, and **cloud
 - ✍️ **Writing at:** [Medium](https://medium.com/@souradeep-mukherjee) (10K+ reads)
 - 💬 **Ask me about:** MERN Stack, Flutter, AWS, MongoDB Optimization, Microservices
 - 📫 **Reach me:** [souradeepm.11@gmail.com](mailto:souradeepm.11@gmail.com)
-- 📄 **Resume:** [View Here]([https://tinyurl.com/bdsdvjru])
-- ⚡ **Fun fact:** *I optimized a production database serving 850K users and improved query performance by 40%!*
+- 📄 **Resume:** [View Here](https://tinyurl.com/bdsdvjru)
+- ⚡ **Fun fact:** *My code is running on government employees' phones right now. No pressure, right?*
 
 ---
 
