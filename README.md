@@ -13,7 +13,7 @@
 
 ## 🧠 About Me
 
-I'm a **Software Engineer** passionate about building **scalable, high-performance systems** that impact real users. With 8+ months of production experience at **SnapE Cabs**, I've shipped enterprise applications serving **850K+ active users** and deployed cloud infrastructure on **AWS** and **GCP**.
+I'm a **Software Engineer** passionate about building **scalable, high-performance systems** that impact real users. With 1 year of production experience at **SnapE Cabs**, I've shipped enterprise applications serving **850K+ active users** and deployed cloud infrastructure on **AWS** and **GCP**.
 
 I specialize in **full-stack development**, **distributed systems**, and **cloud architecture** — always focused on writing clean, maintainable code that solves real-world problems.
 
@@ -107,7 +107,7 @@ I specialize in **full-stack development**, **distributed systems**, and **cloud
 
 ## 🚀 Featured Projects
 
-### 🔹 [Fleet Management Portal](https://ltd.snapecab.com) — Production App
+### 🔹 Fleet Management Portal — Production App
 **Tech Stack:** React.js, Node.js, PostgreSQL, AWS (EC2, S3, RDS), Nginx  
 **Impact:** Serving 100+ fleet vehicles with real-time GPS tracking and automated maintenance scheduling  
 **Highlights:**
@@ -119,7 +119,7 @@ I specialize in **full-stack development**, **distributed systems**, and **cloud
 
 ---
 
-### 🔹 [DVC SnapE Cabs](https://play.google.com/store/apps/details?id=com.dvc.snape_cabs) — Government Enterprise App
+### 🔹 DVC SnapE Cabs — Government Enterprise App
 **Tech Stack:** Flutter, Node.js, MongoDB, AWS ECS, Docker  
 **Impact:** Serving 500+ government employees (Damodar Valley Corporation)  
 **Highlights:**
@@ -168,12 +168,7 @@ I specialize in **full-stack development**, **distributed systems**, and **cloud
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souradeep-mukherjee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=souradeep-mukherjee&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souradeep-mukherjee&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -196,7 +191,7 @@ I specialize in **full-stack development**, **distributed systems**, and **cloud
 - Optimized database performance by **40%**
 - Deployed secure AWS infrastructure with CI/CD
 
-### SnapE Cabs — Software Developer Intern (Feb 2025 - Jul 2025)
+### SnapE Cabs — Software Developer Intern (Oct 2024 - Jul 2025)
 - Delivered enterprise app for **government client** (500+ employees)
 - Built ETL pipelines for **BigQuery analytics**
 - Containerized microservices with **Docker & AWS ECS**
@@ -230,7 +225,7 @@ I'm currently exploring **Software Engineering roles** at product companies wher
 
 **Interested in collaborating?** Feel free to reach out!
 
-📧 [souradeepm.11@gmail.com](mailto:souradeepm.11@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/souradeep-mukherjee) | 📄 [Resume](https://drive.google.com/file/d/1eend2Ei7bPTmbI-7a6Ei6_5coYYVTH64/view?usp=sharing)
+📧 [souradeepm.11@gmail.com](mailto:souradeepm.11@gmail.com) | 💼 [LinkedIn](https://linkedin.com/in/souradeep-mukherjee) | 📄 [Resume](https://tinyurl.com/bdsdvjru)
 
 ---
 
